@@ -1,0 +1,6 @@
+export OLIVERDEV_SHELL="bash"
+source ~/.local/share/oliverdev/defaults/bash/shell
+source ~/.local/share/oliverdev/defaults/bash/aliases
+source ~/.local/share/oliverdev/defaults/bash/functions
+source ~/.local/share/oliverdev/defaults/bash/prompt
+source ~/.local/share/oliverdev/defaults/bash/init

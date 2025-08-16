@@ -1,0 +1,16 @@
+set $mod Mod4
+
+font pango:Iosevka 10
+
+# Start terminal
+bindsym $mod+Return exec alacritty
+
+# Restart i3
+bindsym $mod+Shift+r restart
+
+# Exit i3
+bindsym $mod+Shift+e exit
+
+# Split orientation
+bindsym $mod+h split h
+bindsym $mod+v split v

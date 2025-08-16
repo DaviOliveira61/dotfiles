@@ -1,0 +1,5 @@
+export OLIVERDEV_SHELL="zsh"
+source ~/.local/share/oliverdev/defaults/bash/shell
+source ~/.local/share/oliverdev/defaults/bash/aliases
+source ~/.local/share/oliverdev/defaults/bash/functions
+source ~/.local/share/oliverdev/defaults/bash/init
