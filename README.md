@@ -16,8 +16,10 @@ Just my personal config
 * Docker
 * Iosevka and hack Font
 
-# NOTE #
+# Note #
 
 The oliverdev folder represent .local/share/folder_should_be_here ...
 
 This is required by .zshrc stuff
+
+ulauncher.desktop should be on .config/autostart
